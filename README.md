@@ -9,3 +9,4 @@ _prj-8-2-ansible_
 _added hosts_
 _try_
 _configuring build environ_
+_scripts completed_
