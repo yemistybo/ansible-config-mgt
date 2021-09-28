@@ -6,7 +6,7 @@
 172.31.47.238 ansible_ssh_user='ec2-user'
 
 [db]
-172.31.41.255 ansible_ssh_user='ec2-user' 
+172.31.41.255 ansible_ssh_user='ubuntu'
 
 [lb]
 172.31.39.216 ansible_ssh_user='ubuntu'
